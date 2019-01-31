@@ -1,0 +1,1 @@
+catatan: game ini menggunakan unity 2018.2.15f1
